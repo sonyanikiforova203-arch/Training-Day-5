@@ -3,3 +3,11 @@ Training Day 5
 Linux practice
 
 этот проект посвящён моему детальному изучению Git и тому, чтобы я научилась правильно работать с коммитами
+
+структуру проекта:
+notes
+reports
+research
+images
+data
+src
